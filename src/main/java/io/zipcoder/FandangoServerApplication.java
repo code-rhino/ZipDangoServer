@@ -11,6 +11,8 @@ import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.core.io.Resource;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 import java.io.BufferedReader;
@@ -22,12 +24,18 @@ import java.nio.charset.StandardCharsets;
 
 
 @SpringBootApplication
+@RestController
 public class FandangoServerApplication {
 
 	private static final Logger log = LoggerFactory.getLogger(FandangoServerApplication.class);
 
 	public static void main(String[] args) {
 		SpringApplication.run(FandangoServerApplication.class, args);
+	}
+
+	@RequestMapping("/")
+	public String helloWorld(){
+		return "Hello";
 	}
 
 	@Autowired
