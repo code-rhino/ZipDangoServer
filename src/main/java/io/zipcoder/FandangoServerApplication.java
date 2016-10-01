@@ -38,12 +38,38 @@ public class FandangoServerApplication {
 		return "Hello";
 	}
 
+	@RequestMapping("/movies")
+	public ShowResponse[] movies(){
+		ShowResponse [] responses = null;
+		try {
+			responses = getShowResponse();
+		} catch (Exception ex){
+			log.info("Oooooo noooooooo");
+		}
+		return responses;
+	}
+
 	@Autowired
 	private ApplicationContext applicationContext;
 
 	@Bean
 	public RestTemplate restTemplate(RestTemplateBuilder builder){
 		return builder.build();
+	}
+
+	private ShowResponse[] getShowResponse() throws Exception{
+		Resource resource = applicationContext.getResource("classpath:demoData.json");
+		InputStream is = resource.getInputStream();
+		StringBuilder textBuilder = new StringBuilder();
+		try (Reader reader = new BufferedReader(new InputStreamReader(is, Charset.forName(StandardCharsets.UTF_8.name())))){
+			int c = 0;
+			while ((c = reader.read()) != -1){
+				textBuilder.append((char) c);
+			}
+		}
+		ObjectMapper mapper = new ObjectMapper();
+		ShowResponse[] responseBody = mapper.readValue(textBuilder.toString(), ShowResponse[].class);
+		return responseBody;
 	}
 
 	@Bean
