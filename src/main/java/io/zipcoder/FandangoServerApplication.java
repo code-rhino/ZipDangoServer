@@ -49,7 +49,6 @@ public class FandangoServerApplication {
 	@Bean
 	public CommandLineRunner run(RestTemplate restTemplate) throws Exception{
 		return args->{
-			String url = "http://data.tmsapi.com/v1.1/movies/showings?startDate=2016-09-29&zip=19801&radius=5&units=mi&api_key=rwbea3nhx8fy39sshdrkj855";
 			Resource resource = applicationContext.getResource("classpath:demoData.json");
 			InputStream is = resource.getInputStream();
 			StringBuilder textBuilder = new StringBuilder();
@@ -59,12 +58,9 @@ public class FandangoServerApplication {
 					textBuilder.append((char) c);
 				}
 			}
-			//ResponseEntity<ShowResponse[]> responseEntity = restTemplate.getForEntity(url, ShowResponse[].class);
 			ObjectMapper mapper = new ObjectMapper();
 			ShowResponse[] responseBody = mapper.readValue(textBuilder.toString(), ShowResponse[].class);
-			//ShowResponse[] responseBody = textBuilder.toString();
 			log.info(responseBody[0].toString());
-			//log.info(textBuilder.toString());
 		};
 	}
 }
