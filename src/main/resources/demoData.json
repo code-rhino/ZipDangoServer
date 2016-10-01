@@ -1,0 +1,1625 @@
+[{
+  "tmsId": "MV008813520000",
+  "rootId": "12806084",
+  "subType": "Feature Film",
+  "title": "Queen of Katwe",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-10",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Biography", "Drama"],
+  "longDescription": "Living in the slum of Katwe in Kampala, Uganda, is a constant struggle for 10-year-old Phiona (Madina Nalwanga) and her family. Her world changes one day when she meets Robert Katende (David Oyelowo), a missionary who teaches children how to play chess. Phiona becomes fascinated with the game and soon becomes a top player under Katende's guidance. Her success in local competitions and tournaments opens the door to a bright future and a golden chance to escape from a life of poverty.",
+  "shortDescription": "Missionary Robert Katende mentors young Ugandan chess prodigy Phiona Mutesi (Madina Nalwanga).",
+  "topCast": ["Madina Nalwanga", "David Oyelowo", "Lupita Nyong'o"],
+  "directors": ["Mira Nair"],
+  "officialUrl": "http://movies.disney.com/queen-of-katwe",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG"
+  }],
+  "advisories": ["Adult Situations"],
+  "runTime": "PT02H04M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Queen of Katwe (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12806084_p_v5_ab.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T11:30",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=161779&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T14:15",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=161779&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T17:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=161779&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T18:45",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=161779&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T21:30",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=161779&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008976130000",
+  "rootId": "12733259",
+  "subType": "Feature Film",
+  "title": "Deepwater Horizon: The IMAX 2D Experience",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-30",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Thriller", "Action", "Drama"],
+  "longDescription": "On April 20, 2010, the Deepwater Horizon drilling rig explodes in the Gulf of Mexico, igniting a massive fireball that kills several crew members. Chief electronics technician Mike Williams (Mark Wahlberg) and his colleagues now find themselves fighting for survival as the heat and the flames become stifling and overwhelming. Banding together, the co-workers must use their wits to make it out alive amid all the chaos.",
+  "shortDescription": "Crew members fight for survival when the Deepwater Horizon oil rig explodes in the Gulf of Mexico.",
+  "topCast": ["Mark Wahlberg", "Kurt Russell", "Douglas M. Griffin"],
+  "directors": ["Peter Berg"],
+  "officialUrl": "https://www.lionsgate.com/movies/deepwaterhorizon/",
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations"],
+  "runTime": "PT01H47M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Deepwater Horizon: The IMAX 2D Experience (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12733259_p_v5_af.jpg",
+    "category": "Poster Art",
+    "text": "yes"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T11:30",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=163214&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T14:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=163214&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T16:35",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=163214&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T19:15",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=163214&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T22:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=163214&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008701280000",
+  "rootId": "12711883",
+  "subType": "Feature Film",
+  "title": "When the Bough Breaks",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-09",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Thriller"],
+  "longDescription": "Young, professional and successful, John and Laura (Regina Hall) Taylor desperately want to have a baby, but are unable to conceive. After exhausting all other options, the couple hire Anna, a beautiful young woman who agrees to become a surrogate mother for the Taylors. Everything seems fine until Anna starts to develop a dangerous fixation with John as the pregnancy moves further along. The Taylors now find themselves playing a deadly game with a psychopath who holds the key to their future.",
+  "shortDescription": "A surrogate mother (Jaz Sinclair) starts to develop a dangerous fixation with the man who hired her.",
+  "topCast": ["Morris Chestnut", "Regina Hall", "Romany Malco"],
+  "directors": ["Jon Cassar"],
+  "officialUrl": "http://www.sonypictures.com/movies/whentheboughbreaks/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "1.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Nudity", "Violence"],
+  "runTime": "PT01H47M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "When the Bough Breaks (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12711883_p_v5_ab.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T11:35",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160663&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T14:15",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160663&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T17:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160663&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T19:35",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160663&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T22:15",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160663&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T12:35",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=160663&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T15:30",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=160663&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T18:30",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=160663&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T21:35",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=160663&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008375510000",
+  "rootId": "12443929",
+  "subType": "Feature Film",
+  "title": "Storks 3D",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-23",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Comedy", "Adventure", "Children", "Animated"],
+  "audience": "Children",
+  "longDescription": "Storks deliver babies -- or at least they used to. Now, they deliver packages for a global internet retail giant. Junior (Andy Samberg), the company's top delivery stork, lands in hot water when the Baby Factory produces an adorable but wholly unauthorized girl. Desperate to deliver this bundle of trouble, Junior and his friend Tulip (Katie Crown), the only human on Stork Mountain, race against time to make their first baby drop before the boss (Kelsey Grammer) finds out.",
+  "shortDescription": "A stork (Andy Samberg) and his human friend race against time to make their first baby drop.",
+  "topCast": ["Andy Samberg", "Katie Crown", "Kelsey Grammer"],
+  "directors": ["Nicholas Stoller", "Doug Sweetland"],
+  "officialUrl": "http://www.storksmovie.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG"
+  }],
+  "advisories": ["Adult Situations"],
+  "runTime": "PT01H29M",
+  "animation": "Animated",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Storks 3D (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12443929_p_v5_ad.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T11:40",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158119&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T13:50",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158119&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T22:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158119&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T14:30",
+    "quals": "Closed Captioned|RealD 3D",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158119&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T19:20",
+    "quals": "Closed Captioned|RealD 3D",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158119&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008649970000",
+  "rootId": "12665827",
+  "subType": "Feature Film",
+  "title": "No Manches Frida",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-02",
+  "titleLang": "es",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Comedy"],
+  "longDescription": "After his release from prison, bank robber Zequi sets off to recover the stolen money that was buried by his dizzy accomplice. He's horrified to learn that a high school gymnasium is now standing over the site where the loot is stashed. Needing to infiltrate the building, Zequi lands a job as a substitute teacher for a group of wild and unruly students. As the ex-con tries to lay down the law, he starts to realize that life in jail may have been easier than trying to deal with rebellious teens.",
+  "shortDescription": "An ex-convict (Omar Chaparro) deals with unruly students while posing as a substitute teacher.",
+  "topCast": ["Omar Chaparro", "Martha Higareda", "Fernanda Castillo"],
+  "directors": ["Nacho G. Velilla"],
+  "officialUrl": "https://www.lionsgate.com/movies/nomanchesfrida/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations"],
+  "runTime": "PT01H40M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "No Manches Frida (2016)",
+      "lang": "es"
+    },
+    "uri": "assets/p12665827_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T11:40",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160252&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T14:20",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160252&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T17:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160252&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T19:45",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160252&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T22:30",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160252&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008008720000",
+  "rootId": "12109404",
+  "subType": "Feature Film",
+  "title": "Miss Peregrine's Home for Peculiar Children",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-30",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Fantasy", "Adventure", "Action", "Mystery"],
+  "longDescription": "When his beloved grandfather leaves Jake clues to a mystery that spans different worlds and times, he finds a magical place known as Miss Peregrine's School for Peculiar Children. But the mystery and danger deepen as he gets to know the residents and learns about their special powers - and their terrifying enemies. Ultimately, Jake discovers that only his own special peculiarity can save his new friends. Based on the novel \"Miss Peregrine's Home For Peculiar Children,\" written by Ransom Riggs.",
+  "shortDescription": "A teen discovers a secret refuge on an island where children have special powers and hidden enemies.",
+  "topCast": ["Eva Green", "Asa Butterfield", "Samuel L. Jackson"],
+  "directors": ["Tim Burton"],
+  "officialUrl": "http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children",
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Situations", "Violence"],
+  "runTime": "PT02H07M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Miss Peregrine's Home for Peculiar Children (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12109404_p_v5_ab.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T11:45",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=154057&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T14:35",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=154057&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T17:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=154057&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T19:45",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=154057&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T22:15",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=154057&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T12:20",
+    "quals": "Digital Cinema|Closed Captioned",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=154057&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T18:35",
+    "quals": "Digital Cinema|Closed Captioned",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=154057&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008716800000",
+  "rootId": "12721193",
+  "subType": "Feature Film",
+  "title": "Don't Breathe",
+  "releaseYear": 2016,
+  "releaseDate": "2016-03-12",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Thriller", "Horror"],
+  "longDescription": "Rocky (Jane Levy), Alex and Money are three Detroit thieves who get their kicks by breaking into the houses of wealthy people. Money gets word about a blind veteran who won a major cash settlement following the death of his only child. Figuring he's an easy target, the trio invades the man's secluded home in an abandoned neighborhood. Finding themselves trapped inside, the young intruders must fight for their lives after making a shocking discovery about their supposedly helpless victim.",
+  "shortDescription": "Three trapped thieves must fight for their lives after breaking into the home of a blind veteran.",
+  "topCast": ["Jane Levy", "Dylan Minnette", "Daniel Zovatto"],
+  "directors": ["Fede Alvarez"],
+  "officialUrl": "http://www.sonypictures.com/movies/dontbreathe/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "R"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Violence"],
+  "runTime": "PT01H28M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Don't Breathe (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12721193_p_v5_aa.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T11:50",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160780&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T14:05",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160780&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T18:10",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160780&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T20:20",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160780&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T22:30",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160780&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008399320000",
+  "rootId": "12465613",
+  "subType": "Feature Film",
+  "title": "Sully",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-09",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Drama", "Biography"],
+  "longDescription": "On Jan. 15, 2009, Capt. Chesley \"Sully\" Sullenberger (Tom Hanks) tries to make an emergency landing in New York's Hudson River after US Airways Flight 1549 strikes a flock of geese. Miraculously, all of the 155 passengers and crew survive the harrowing ordeal, and Sullenberger becomes a national hero in the eyes of the public and the media. Despite the accolades, the famed pilot now faces an investigation that threatens to destroy his career and reputation.",
+  "shortDescription": "Capt. Chesley Sullenberger faces an investigation after landing a plane in New York's Hudson River.",
+  "topCast": ["Tom Hanks", "Aaron Eckhart", "Valerie Mahaffey"],
+  "directors": ["Clint Eastwood"],
+  "officialUrl": "http://www.sully-movie.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "3"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations"],
+  "runTime": "PT01H36M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "uri": "assets/p12465613_i_v5_aa.jpg",
+    "category": "Iconic",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T12:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158197&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T14:25",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158197&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T16:45",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158197&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T19:15",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158197&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T21:40",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158197&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T12:00",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158197&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T14:35",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158197&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T17:05",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158197&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T19:35",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158197&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T22:05",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158197&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008375490000",
+  "rootId": "12443929",
+  "subType": "Feature Film",
+  "title": "Storks",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-23",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Animated", "Adventure", "Comedy", "Children"],
+  "audience": "Children",
+  "longDescription": "Storks deliver babies -- or at least they used to. Now, they deliver packages for a global internet retail giant. Junior (Andy Samberg), the company's top delivery stork, lands in hot water when the Baby Factory produces an adorable but wholly unauthorized girl. Desperate to deliver this bundle of trouble, Junior and his friend Tulip (Katie Crown), the only human on Stork Mountain, race against time to make their first baby drop before the boss (Kelsey Grammer) finds out.",
+  "shortDescription": "A stork (Andy Samberg) and his human friend race against time to make their first baby drop.",
+  "topCast": ["Andy Samberg", "Katie Crown", "Kelsey Grammer"],
+  "directors": ["Nicholas Stoller", "Doug Sweetland"],
+  "officialUrl": "http://www.storksmovie.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG"
+  }],
+  "advisories": ["Adult Situations"],
+  "runTime": "PT01H29M",
+  "animation": "Animated",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Storks 3D (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12443929_p_v5_ad.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T12:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158118&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T14:10",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158118&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T16:25",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158118&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T18:45",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158118&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T12:05",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158118&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T16:55",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158118&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T21:45",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158118&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008733300000",
+  "rootId": "12733259",
+  "subType": "Feature Film",
+  "title": "Deepwater Horizon",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-13",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Thriller", "Action", "Drama"],
+  "longDescription": "On April 20, 2010, the Deepwater Horizon drilling rig explodes in the Gulf of Mexico, igniting a massive fireball that kills several crew members. Chief electronics technician Mike Williams (Mark Wahlberg) and his colleagues now find themselves fighting for survival as the heat and the flames become stifling and overwhelming. Banding together, the co-workers must use their wits to make it out alive amid all the chaos.",
+  "shortDescription": "Crew members fight for survival when the Deepwater Horizon oil rig explodes in the Gulf of Mexico.",
+  "topCast": ["Mark Wahlberg", "Kurt Russell", "Douglas M. Griffin"],
+  "directors": ["Peter Berg"],
+  "officialUrl": "https://www.lionsgate.com/movies/deepwaterhorizon/",
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations"],
+  "runTime": "PT01H47M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Deepwater Horizon (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12733259_p_v5_ag.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T12:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160887&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T14:45",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160887&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T16:15",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160887&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T17:15",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160887&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T20:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160887&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T22:30",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=160887&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T12:40",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=160887&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T15:20",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=160887&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T18:45",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=160887&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T21:50",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=160887&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV006798690000",
+  "rootId": "11319046",
+  "subType": "Feature Film",
+  "title": "Suicide Squad",
+  "releaseYear": 2016,
+  "releaseDate": "2016-08-05",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Action", "Adventure", "Fantasy"],
+  "longDescription": "Figuring they're all expendable, a U.S. intelligence officer decides to assemble a team of dangerous, incarcerated supervillains for a top-secret mission. Now armed with government weapons, Deadshot (Will Smith), Harley Quinn (Margot Robbie), Captain Boomerang, Killer Croc and other despicable inmates must learn to work together. Dubbed Task Force X, the criminals unite to battle a mysterious and powerful entity, while the diabolical Joker (Jared Leto) launches an evil agenda of his own.",
+  "shortDescription": "Deadshot, Harley Quinn and other supervillains unite to battle a mysterious and powerful entity.",
+  "topCast": ["Will Smith", "Jared Leto", "Margot Robbie"],
+  "directors": ["David Ayer"],
+  "officialUrl": "http://www.suicidesquad.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Violence"],
+  "runTime": "PT02H03M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Suicide Squad (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p11319046_p_v5_af.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T12:15",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=146245&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T15:15",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=146245&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T18:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=146245&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T20:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=146245&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T21:20",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=146245&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV007424000000",
+  "rootId": "11542406",
+  "subType": "Feature Film",
+  "title": "Masterminds",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-30",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Comedy", "Action"],
+  "longDescription": "David Ghantt (Zach Galifianakis) is stuck in the monotony of driving an armored truck day in and day out, so when his work crush lures him into the heist of a lifetime, David's all in. Despite a pack of harebrained bandits and an absurdly flawed plan, David manages to steal $17 million, and promptly hands it over to the gang -- who just as promptly double-cross him. Forced to go on the lam, David must dodge the authorities and a hit man, and try to turn the tables on his untrustworthy comrades.",
+  "shortDescription": "A flirty co-worker lures an armored-truck driver into helping her and her friends pull off a heist.",
+  "topCast": ["Zach Galifianakis", "Owen Wilson", "Kristen Wiig"],
+  "directors": ["Jared Hess"],
+  "officialUrl": "http://www.mastermindsmovie.com/",
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Violence"],
+  "runTime": "PT01H35M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Masterminds (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p11542406_p_v5_ad.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T12:15",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=149061&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T14:40",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=149061&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T17:25",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=149061&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T19:50",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=149061&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T22:35",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=149061&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T11:55",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=149061&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T14:20",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=149061&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T16:45",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=149061&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T19:10",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=149061&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T21:55",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=149061&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008147540000",
+  "rootId": "12230485",
+  "subType": "Feature Film",
+  "title": "Bridget Jones's Baby",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-16",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Romantic comedy"],
+  "longDescription": "Breaking up with Mark Darcy (Colin Firth) leaves Bridget Jones (Renée Zellweger) over 40 and single again. Feeling that she has everything under control, Jones decides to focus on her career as a top news producer. Suddenly, her love life comes back from the dead when she meets a dashing and handsome American named Jack (Patrick Dempsey). Things couldn't be better, until Bridget discovers that she is pregnant. Now, the befuddled mom-to-be must figure out if the proud papa is Mark or Jack.",
+  "shortDescription": "Befuddled mom-to-be Bridget Jones must figure out which man in her life is the father of her child.",
+  "topCast": ["Renée Zellweger", "Colin Firth", "Patrick Dempsey"],
+  "directors": ["Sharon Maguire"],
+  "officialUrl": "http://www.bridgetjonesmovie.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "R"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Nudity"],
+  "runTime": "PT02H02M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Bridget Jones's Baby (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12230485_p_v5_ac.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T12:20",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=156222&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T15:10",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=156222&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T12:30",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=156222&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T15:35",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=156222&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T18:40",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=156222&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T21:45",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=156222&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV007657670000",
+  "rootId": "11823926",
+  "subType": "Feature Film",
+  "title": "Snowden",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-16",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Biography", "Drama", "Thriller"],
+  "longDescription": "Disillusioned with the intelligence community, top contractor Edward Snowden (Joseph Gordon-Levitt) leaves his job at the National Security Agency. He now knows that a virtual mountain of data is being assembled to track all forms of digital communication -- not just from foreign governments and terrorist groups, but from ordinary Americans. When Snowden decides to leak this classified information, he becomes a traitor to some, a hero to others and a fugitive from the law.",
+  "shortDescription": "Former CIA employee Edward Snowden becomes a fugitive after leaking classified information.",
+  "topCast": ["Joseph Gordon-Levitt", "Shailene Woodley", "Rhys Ifans"],
+  "directors": ["Oliver Stone"],
+  "officialUrl": "http://www.snowdenfilm.com/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "R"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Nudity"],
+  "runTime": "PT02H14M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Snowden (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p11823926_p_v5_ab.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T12:25",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=151590&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T15:30",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=151590&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T18:35",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=151590&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T21:50",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=151590&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008484290000",
+  "rootId": "12541171",
+  "subType": "Feature Film",
+  "title": "The Magnificent Seven",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-08",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Western", "Action", "Adventure"],
+  "longDescription": "Looking to mine for gold, greedy industrialist Bartholomew Bogue seizes control of the Old West town of Rose Creek. With their lives in jeopardy, Emma Cullen and other desperate residents turn to bounty hunter Sam Chisolm (Denzel Washington) for help. Chisolm recruits an eclectic group of gunslingers to take on Bogue and his ruthless henchmen. With a deadly showdown on the horizon, the seven mercenaries soon find themselves fighting for more than just money once the bullets start to fly.",
+  "shortDescription": "Desperate townspeople hire seven mercenaries to battle a ruthless industrialist in the Old West.",
+  "topCast": ["Denzel Washington", "Chris Pratt", "Ethan Hawke"],
+  "directors": ["Antoine Fuqua"],
+  "officialUrl": "http://www.sonypictures.com/movies/themagnificentseven/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2.5"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Language", "Adult Situations", "Violence"],
+  "runTime": "PT02H08M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "The Magnificent Seven (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12541171_p_v5_ad.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T13:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158758&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T16:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158758&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T19:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158758&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T21:00",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158758&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T22:10",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=158758&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T12:15",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158758&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T15:25",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158758&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T18:35",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158758&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T21:40",
+    "quals": "Closed Captioned|Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=158758&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV009036840000",
+  "rootId": "12109404",
+  "subType": "Feature Film",
+  "title": "Miss Peregrine's Home for Peculiar Children 3D",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-30",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Fantasy", "Adventure", "Action", "Mystery"],
+  "longDescription": "When his beloved grandfather leaves Jake clues to a mystery that spans different worlds and times, he finds a magical place known as Miss Peregrine's School for Peculiar Children. But the mystery and danger deepen as he gets to know the residents and learns about their special powers - and their terrifying enemies. Ultimately, Jake discovers that only his own special peculiarity can save his new friends. Based on the novel \"Miss Peregrine's Home For Peculiar Children,\" written by Ransom Riggs.",
+  "shortDescription": "A teen discovers a secret refuge on an island where children have special powers and hidden enemies.",
+  "topCast": ["Eva Green", "Asa Butterfield", "Samuel L. Jackson"],
+  "directors": ["Tim Burton"],
+  "officialUrl": "http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children",
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "PG-13"
+  }],
+  "advisories": ["Adult Situations", "Violence"],
+  "runTime": "PT02H07M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Miss Peregrine's Home for Peculiar Children 3D (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12109404_p_v5_ac.jpg",
+    "category": "Poster Art",
+    "text": "yes"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T16:10",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=163861&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T19:05",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=163861&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T15:25",
+    "quals": "RealD 3D|Closed Captioned",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=163861&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T21:40",
+    "quals": "RealD 3D|Closed Captioned",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=163861&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV008905080000",
+  "rootId": "12886620",
+  "subType": "Feature Film",
+  "title": "Blair Witch",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-11",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Horror", "Thriller"],
+  "longDescription": "A young man and his friends venture into the Black Hills Forest in Maryland to uncover the mystery surrounding his missing sister. Many believe her disappearance 17 years earlier is connected to the legend of the Blair Witch. At first the group is hopeful, especially when two locals act as guides through the dark and winding woods. As the night wears on, a visit from a menacing presence soon makes them realize that the legend is all too real, and more sinister than they could have ever imagined.",
+  "shortDescription": "Friends encounter the legendary Blair Witch while exploring the Black Hills Forest in Maryland.",
+  "topCast": ["James Allen McCune", "Callie Hernandez", "Corbin Reid"],
+  "directors": ["Adam Wingard"],
+  "officialUrl": "http://www.lionsgate.com/movies/blairwitch/",
+  "qualityRating": {
+    "ratingsBody": "TMS",
+    "value": "2"
+  },
+  "ratings": [{
+    "body": "Motion Picture Association of America",
+    "code": "R"
+  }],
+  "advisories": ["Adult Language", "Adult Situations"],
+  "runTime": "PT01H29M",
+  "preferredImage": {
+    "width": "240",
+    "height": "360",
+    "caption": {
+      "content": "Blair Witch (2016)",
+      "lang": "en"
+    },
+    "uri": "assets/p12886620_p_v5_ad.jpg",
+    "category": "Poster Art",
+    "text": "yes",
+    "primary": "true"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T20:25",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=162667&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "10685",
+      "name": "Penn Cinema Riverfront IMAX"
+    },
+    "dateTime": "2016-09-30T22:35",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAWVI&m=162667&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "MV009297520000",
+  "rootId": "13262691",
+  "subType": "Feature Film",
+  "title": "Majnu",
+  "releaseYear": 2016,
+  "releaseDate": "2016-09-16",
+  "titleLang": "en",
+  "descriptionLang": "en",
+  "entityType": "Movie",
+  "genres": ["Romantic comedy"],
+  "shortDescription": "An assistant director navigates relationships with two women.",
+  "longDescription": "An assistant director navigates relationships with two women.",
+  "topCast": ["Nani", "Anu Emmanuel", "Priya Shri"],
+  "directors": ["Virinchi Varma"],
+  "runTime": "PT02H30M",
+  "preferredImage": {
+    "uri": "tvbanners/generic/generic_tvbanners_v5.png"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T12:25",
+    "quals": "Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=166179&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T15:30",
+    "quals": "Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=166179&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T18:30",
+    "quals": "Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=166179&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T21:35",
+    "quals": "Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=166179&d=2016-09-30"
+  }]
+}, {
+  "tmsId": "EV000007104429",
+  "rootId": "13330974",
+  "subType": "Theatre Event",
+  "title": "Hyper",
+  "titleLang": "en",
+  "entityType": "Movie",
+  "preferredImage": {
+    "uri": "tvbanners/generic/generic_tvbanners_v5.png"
+  },
+  "showtimes": [{
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T18:20",
+    "quals": "Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=167101&d=2016-09-30"
+  }, {
+    "theatre": {
+      "id": "5218",
+      "name": "Cinemark Movies 10"
+    },
+    "dateTime": "2016-09-30T21:30",
+    "quals": "Digital Cinema",
+    "barg": false,
+    "ticketURI": "http://www.fandango.com/tms.asp?t=AAIMP&m=167101&d=2016-09-30"
+  }]
+}]
